@@ -1,6 +1,3 @@
-//Riddhi Musale 
-//Prn: 23070123108
-//exp 2
 #include <iostream>
 using namespace std;
 
