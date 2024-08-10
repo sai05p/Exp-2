@@ -1,7 +1,3 @@
-//Riddhi Musale 
-//Prn: 23070123108
-//exp 3:operators
-
 #include<iostream>
 using namespace std;
 
