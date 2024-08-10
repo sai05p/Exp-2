@@ -43,6 +43,10 @@ int main()
      return 0;
 }
 ```
+o/p:
+
+![image](https://github.com/user-attachments/assets/6d426ef9-7fde-4ee7-b696-6ccbb4f5a7e5)
+
 ```
 #include <iostream>
 using namespace std;
@@ -66,6 +70,10 @@ int main()
     return 0;
 }
 ```
+o/p:
+
+![image](https://github.com/user-attachments/assets/ea969268-21bd-4ac9-a6b1-bbb039d72b94)
+
 ```
 #include <iostream>
 using namespace std;
@@ -88,5 +96,10 @@ int main(){
     return 0;
 }
 ```
+o/p:
+
+![image](https://github.com/user-attachments/assets/e07ef582-9741-4d99-8b21-e6ab3383619c)
+
 # Conclusion
+
 When the code is run, different C++ data types' sizes in bytes are displayed. The architecture and compiler of your computer may cause these sizes to vary. Understanding these sizes will help you optimize your applications and make sure they operate well on various systems by revealing how much memory different categories require.
